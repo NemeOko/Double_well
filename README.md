@@ -17,11 +17,11 @@ This is a **theoretical** study from my MEng dissertation at the University of M
 - At ultra-low to low frequencies the QZS harvester produced at least 10x the voltage of an equivalent linear harvester, over a broader band.
 - Near the linear harvester's resonance, and above it, the linear design performs as well or better.
 - Large-amplitude responses depend on the initial conditions, so forward and reverse sweeps differ (hysteresis).
-![Voltage frequency response: QZS (forward and reverse sweeps) vs linear harvester](images/voltage_frf_qzs_vs_linear.png)
+![Voltage frequency response: QZS (forward and reverse sweeps) vs linear harvester](voltage_frf_qzs_vs_linear.png)
  
 *Voltage frequency response of the QZS harvester (forward and reverse sweeps) against an equivalent linear harvester. Base excitation: [confirm 0.1 g, 1 g or 2 g from Figure 16 of your report].*
  
-![Static potential energy of the beam, magnets and total at the QZS gap](images/static_potential_qzs.png)
+![Static potential energy of the beam, magnets and total at the QZS gap](static_potential_qzs.png)
  
 *Static potential energy at the QZS gap: the magnets flatten the bottom of the well so the beam responds to very small, slow excitation.*
  
