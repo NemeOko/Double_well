@@ -37,7 +37,6 @@ You will be asked for: magnetic force on/off (1 = on), minimum and maximum frequ
 ## Credits
 - Beam model builds on Erturk and Inman (2008, 2009) and Rafique and Bonello (2010).
 - Bistable harvester comparison: Stanton, McGehee and Mann (2010), *Physica D* 239(10).
-- Supervisor: [Dr Phillip Bonello, include only if he agrees].
-
+  
 ## Author
 Neme Okoroafor, MEng Mechanical Engineering, University of Manchester.
